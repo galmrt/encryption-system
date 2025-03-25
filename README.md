@@ -1,7 +1,8 @@
 # Project Encryption
-This repository contains the code for encryption Project.
+This repository contains the code for Encryption Project.
 
-The project implementation is located inside client/client.go
+
+The project implementation is located inside client/client.go.
 To test implementation, run `go test -v` inside of the `client_test` directory.
 
 # Secure File Storage and Access Control System
