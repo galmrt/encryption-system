@@ -1,8 +1,7 @@
 # Project Encryption
-This repository contains the code for Encryption Project.
+This repository contains the code for end to end encryption system. Initially, it was a part of a university project. However, the "File Sharing and Access Control" features were implemented out of personal interest, as I wanted to deepen my understanding of cryptographic security principles and practical implementations. 
 
-
-The project implementation is located inside client/client.go.
+The main code is located inside `client/client.go`.  I implemented the entire code myself, ensuring a thorough grasp of encryption, authentication, and access control techniques.
 To test implementation, run `go test -v` inside of the `client_test` directory.
 
 # Secure File Storage and Access Control System
